@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* คุณสามารถใส่ style เพิ่มเติมได้ เช่น font หรือ transition */
+
 html {
-  scroll-behavior: smooth; /* ทำให้เลื่อนหน้าเว็บนุ่มนวล */
+  scroll-behavior: smooth; 
 }

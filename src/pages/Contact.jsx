@@ -7,9 +7,9 @@ function Contact() {
       <div className="card">
         <p>หากคุณสนใจในผลงานของผม หรือต้องการพูดคุย สามารถติดต่อได้ทางช่องทางด้านล่างนี้เลยครับ</p>
         <ul>
-          <li><strong>Email:</strong> <a href="mailto:youremail@example.com">youremail@example.com</a></li>
-          <li><strong>LinkedIn:</strong> <a href="[Your LinkedIn URL]" target="_blank" rel="noopener noreferrer">Your Name</a></li>
-          <li><strong>GitHub:</strong> <a href="[Your GitHub URL]" target="_blank" rel="noopener noreferrer">yourusername</a></li>
+          <li><strong>Email:</strong> <a href="mailto:nutchainoi01@gmail.com">nutchainoi01@gmail.com</a></li>
+          <li><strong>Facebook:</strong> <a href="https://www.facebook.com/pornpipat.intharaphirom/" target="_blank" rel="noopener noreferrer">Pornpipat Intharaphirom </a></li>
+          <li><strong>Instagram:</strong> <a href="https://www.instagram.com/07jul.n?igsh=eHlpOGlvdjFqdmg3" target="_blank" rel="noopener noreferrer">07jul.n</a></li>
         </ul>
       </div>
     </div>

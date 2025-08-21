@@ -1,11 +1,11 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import './Navbar.css'; // เราจะสร้างไฟล์ CSS นี้ทีหลัง
+import './Navbar.css'; 
 
 function Navbar() {
   return (
     <nav className="navbar">
-      <NavLink to="/" className="nav-logo">MyPortfolio</NavLink>
+      <NavLink to="/" className="nav-logo">Nut Portfolio</NavLink>
       <ul className="nav-menu">
         <li className="nav-item">
           <NavLink to="/" className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}>Home</NavLink>

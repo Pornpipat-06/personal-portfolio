@@ -5,12 +5,17 @@ function Education() {
     <div className="page-container">
       <h1>ประวัติการศึกษา</h1>
       <div className="card">
-        <h3>[ชื่อปริญญา], [สาขาวิชา]</h3>
-        <p className="institution">[ชื่อมหาวิทยาลัย]</p>
-        <p className="date">[ปีที่เริ่ม] - [ปีที่จบ]</p>
-        <p>เกรดเฉลี่ย: [GPAX]</p>
+        <h3>โรงเรียนศรีวิชัยวิทยา</h3>
+        <p className="institution">สายสามัญทั่วไป</p>
+        <p className="date">[2024] - [2025]</p>
+        <p>เกรดเฉลี่ย: 3.53</p>
       </div>
-       {/* เพิ่มรายการการศึกษาอื่นๆ ได้ที่นี่ */}
+      <div className="card">
+        <h3>HogWarts</h3>
+        <p className="institution">สาขาวิชาเวทย์มนต์ไฟ</p>
+        <p className="date">[2015] - [2020]</p>
+        <p>เกรดเฉลี่ย: 4.99</p>
+      </div>
     </div>
   );
 }
